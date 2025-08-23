@@ -38,14 +38,21 @@ I’m a backend-focused software engineer building scalable, maintainable system
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shoaibatmaca&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
+### 🤝 Connect with Me
 
-## 🌐 Connect with Me
+<p align="center">
+  <a href="https://shoaibatmaca.github.io/"><img src="https://img.shields.io/badge/-Muhammad%20Shoaib-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-shoaib-b1bb911a0/"><img src="https://img.shields.io/badge/-Muhammad%20Shoaib-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+  <a href="mailto:mshoaibkaglur@gmail.com"><img src="https://img.shields.io/badge/-mshoaibkaglur-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
+  <a href="https://github.com/shoaibatmaca"><img src="https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshoaibkaglur@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoaibatmaca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-b1bb911a0/)
+<p align="center">
+  <b>Show some </b><img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px" height="25px">
+  <b> by </b><img src="https://media.giphy.com/media/4sPHesuyPZHRvGbDc9/giphy.gif" width="25px" height="25px">
+  <b> some of the repositories! </b>
+</p>
 
----
 
 > “Code like poetry — elegant, purposeful, and expressive.”  
 > — Muhammad Shoaib
