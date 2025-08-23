@@ -18,43 +18,6 @@ I’m a backend-focused software engineer building scalable, maintainable system
 
 ---
 
-## 💻 My Skills
-
-<table width="100%">
-<tbody>
-
-<tr>
-<td align='center' width="150"><h4>Languages</h4></td>
-<td align='center' width="180"><h4>Frameworks</h4></td>
-<td align='center' width="180"><h4>Databases & Cache</h4></td>
-<td align='center' width="180"><h4>Tools</h4></td>
-<td align='center' width="180"><h4>Cloud & DevOps</h4></td>
-<td align='center' width="180"><h4>Others</h4></td>
-</tr>
-
-<tr>
-<td align='center'><img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" alt="Python" width="80" height="80"/></td>
-<td align='center'><img src="https://img.icons8.com/color/512/django.png" alt="Django" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" height="80"/><br/><img src="https://img.icons8.com/color/480/redis.png" alt="Redis" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="80" height="80"/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Git_icon.svg" alt="Git" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" height="40"/><br/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="80" height="80"/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="80" height="80"/></td>
-</tr>
-
-<tr>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Typescript_logo_2020.svg" alt="TypeScript" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/MongoDB_Logo.svg" alt="MongoDB" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Visual_Studio_Code_2020.svg" alt="VSCode" width="80" height="80"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Cloud_logo.svg" alt="GCP" width="80" height="40"/></td>
-<td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Slack_Technology_logo.png" alt="Slack" width="80" height="80"/></td>
-</tr>
-
-</tbody>
-</table>
-----
-
-
 ## ⚙️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
