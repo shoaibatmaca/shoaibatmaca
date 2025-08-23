@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a backend-focused software engineer with expertise in building scalable, maintainable systems using **Django**, **Django REST Framework**, and modern backend tools.
+I’m a backend-focused software engineer building scalable, maintainable systems using **Django**, **Django REST Framework**, and modern backend tools.
 
 - 🔧 Experienced in building admin panels, background task systems, and API-first platforms  
 - ⚙️ Hands-on with **Celery**, **Redis**, **Docker**, and **microservice-based architectures**  
@@ -17,6 +17,7 @@ I’m a backend-focused software engineer with expertise in building scalable, m
 - 📫 Reach me at: **mshoaibkaglur@gmail.com**  
 - ⚡ I enjoy solving real-world problems by combining backend engineering with automation and AI
 
+---
 
 ### ⚙️ Tech Stack & Tools
 
@@ -41,7 +42,7 @@ I’m a backend-focused software engineer with expertise in building scalable, m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shoaibatmaca&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibatmaca&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="95%"/>
 </p>
 
 ---
@@ -54,6 +55,9 @@ I’m a backend-focused software engineer with expertise in building scalable, m
   </a>
   <a href="https://github.com/shoaibatmaca">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-shoaib-b1bb911a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
